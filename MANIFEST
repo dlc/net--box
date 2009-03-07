@@ -1,0 +1,4 @@
+MANIFEST
+README
+lib/Net/Box.pm
+Makefile.PL
